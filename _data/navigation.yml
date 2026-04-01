@@ -14,23 +14,23 @@ main:
   - title: "About Me"
     url: /aboutme/
 
-  # - title: "News"
-  #   url: /news/
+  - title: "News"
+    url: /news/
     
   - title: "Publications"
     url: /publications/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Talks"
+    url: /talks/    
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
 
-  # - title: "Honors and Awards"
-  #   url: /honorsandawards/ 
+  - title: "Honors and Awards"
+    url: /honorsandawards/ 
 
-  # - title: "Services"
-  #   url: /services/ 
+  - title: "Services"
+    url: /services/ 
     
   # - title: "Portfolio"
   #   url: /portfolio/
