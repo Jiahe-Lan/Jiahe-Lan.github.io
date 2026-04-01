@@ -11,7 +11,7 @@ main:
   # - title: "Homepage"
   #   url: /
 
-  - title: "About Me"
+  - title: "About"
     url: /about/
 
   # - title: "News"
@@ -29,8 +29,8 @@ main:
   # - title: "Honors and Awards"
   #   url: /honorsandawards/ 
 
-  - title: "Services"
-    url: /services/ 
+  # - title: "Services"
+  #   url: /services/ 
     
   # - title: "Portfolio"
   #   url: /portfolio/
