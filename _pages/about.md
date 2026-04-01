@@ -1,7 +1,7 @@
 ---
 layout: about
-title: About
-permalink: /about/
+title: About Me
+permalink: /aboutme/
 ---
 
 I am a graduate student working on trustworthy AI, with a focus on:
