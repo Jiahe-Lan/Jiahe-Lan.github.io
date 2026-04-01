@@ -11,8 +11,8 @@ main:
   # - title: "Homepage"
   #   url: /
 
-  - title: "About"
-    url: /about/
+  - title: "About Me"
+    url: /aboutme/
 
   # - title: "News"
   #   url: /news/
